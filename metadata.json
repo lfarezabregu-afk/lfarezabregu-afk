@@ -1,0 +1,6 @@
+{
+  "name": "Presentación AeroDerm",
+  "description": "Presentación interactiva y profesional en diapositivas del producto AeroDerm, aerosol protector y barrera térmica ecológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
